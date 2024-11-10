@@ -1,7 +1,7 @@
 import Header from '@/components/Header'
 import ProductList from '@/components/ProductList'
 
-export default function Home() {
+export default function Component() {
     return (
         <div className="min-h-screen bg-gray-100">
             <Header />
